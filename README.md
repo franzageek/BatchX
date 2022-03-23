@@ -1,6 +1,6 @@
 # BatchX
 
-[Introduction](https://github.com/franzageek/BatchX/README.md#a-new-way-to-use-the-batch) • 
+[Introduction](https://github.com/franzageek/BatchX/README.md#a-new-way-to-use-the-batch) • [Guide](https://github.com/franzageek/BatchX/README.md#guide) • [Plugins](https://github.com/franzageek/BatchX/README.md#plugins)
 
 ### A new way to use the Batch
 
