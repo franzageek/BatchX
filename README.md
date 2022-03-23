@@ -34,11 +34,11 @@ e.g. batchx --d ascii2unicode     Replace "name" with the plugin you want to dow
 ### Plugins
 Here are the BatchX plugins. For now they are not many, but more will be added over time.
 
-ascii2unicode: Convert ascii text file to Unicode text file.
-bin2dec: Convert a binary value to a decimal number.
-bootstate: Display the boot state (normal, safe mode, WinPE ecc.).
-cdromdrives: List all CDROM drives for the local computer.
-dec2bin: Convert decimal number to decimal.
+**ascii2unicode**: Convert ascii text file to Unicode text file.
+**bin2dec**: Convert a binary value to a decimal number.
+**bootstate**: Display the boot state (normal, safe mode, WinPE ecc.).
+**cdromdrives**: List all CDROM drives for the local computer.
+**dec2bin**: Convert decimal number to decimal.
 
 
 
