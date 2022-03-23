@@ -31,7 +31,7 @@ GOTO:EOF
 :Syntax
 ECHO.
 ECHO BatchX %~nx0
-ECHO %~nx0 : Convert the specified number to binary.
+ECHO %~nx0 : Convert the specified number to hexadecimal.
 ECHO Usage: 
 ECHO    $ %~nx0 number
 ECHO.
