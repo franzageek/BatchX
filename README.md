@@ -34,8 +34,6 @@ e.g. batchx --d ascii2unicode     Replace "name" with the plugin you want to dow
 ### Plugins
 Here are the BatchX plugins. For now they are not many, but more will be added over time.
 
-
-
 **ascii2unicode**: Convert ascii text file to Unicode text file.
 
 **bin2dec**: Convert a binary value to a decimal number.
@@ -44,7 +42,27 @@ Here are the BatchX plugins. For now they are not many, but more will be added o
 
 **cdromdrives**: List all CDROM drives for the local computer.
 
-**dec2bin**: Convert decimal number to decimal.
+**dec2bin**: Convert decimal number to binary.
+
+**dec2hex**: Convert decimal number to hexadecimal.
+
+**defprinter**: Prints the default printer's name.
+
+**drives**: List disk drives and their drive types
+
+**enablecad**: Enable the CTRL+ALT+DEL feature to unlock the PC at the logon screen.
+
+**findunins**: List the uninstall command/program to the specified program.
+
+**getres**: Read and display the resolution settings from the registry.
+
+**lastfile**: Opens the last file used in Documents folder.
+
+**num2bin**: Convert the specified number to binary.
+
+**num2hex**: Convert the specified number to hexadecimal.
+
+
 
 
 
