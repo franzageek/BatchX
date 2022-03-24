@@ -56,14 +56,24 @@ Here are the BatchX plugins. For now they are not many, but more will be added o
 
 **getres**: Read and display the resolution settings from the registry.
 
-**lastfile**: Opens the last file used in Documents folder.
+**lastfile**: Open the last file used in Documents folder.
 
 **num2bin**: Convert the specified number to binary.
 
 **num2hex**: Convert the specified number to hexadecimal.
 
+**num2oct**: Convert the specified number to octal.
+
+**reverse**: Return the specified string in the reverse order.
+
+**setdefwp**: Set the specified .bmp file to the default Windows' wallpapers.
+
+**viewowner**: Display the owner of the specified file.
 
 
+### Disclaimer
+I am not responsible for any use you will make of these plugins. Use them at your own risk.
 
-
+### Credits
+GNU WGET is a GNU project -  discover it at https://www.gnu.org/software/wget/ 
 
