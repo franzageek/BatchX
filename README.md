@@ -1,6 +1,5 @@
 # BatchX
-
-
+![](https://github.com/franzageek/BatchX/blob/resources/batchx.png)
 
 [Introduction](https://github.com/franzageek/BatchX/README.md#a-new-way-to-use-the-batch) • [Guide](https://github.com/franzageek/BatchX/README.md#guide) • [Plugins](https://github.com/franzageek/BatchX/README.md#plugins) • [Disclaimer](https://github.com/franzageek/BatchX/README.md#disclaimer) • [Credits](https://github.com/franzageek/BatchX/README.md#credits)
 
