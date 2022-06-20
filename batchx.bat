@@ -66,7 +66,7 @@ set plugin=%~2
 	:scan1
 	if exist %plugin%.bat echo "%plugin%" is already installed on your PC. & exit /b
 	if not exist %plugin%.bat (
-		>nul findstr /V "%plugintodel%" installedplugins.txt >installedplugins2.txt
+		>nul findstr /V "%plugin%" installedplugins.txt >installedplugins2.txt
 		del installedplugins.txt > NUL
 		rename installedplugins2.txt installedplugins.txt > NUL
 		goto :check
